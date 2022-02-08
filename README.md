@@ -10,8 +10,6 @@ Your task is to improve the code, by submitting a Pull Request.
 
 I will be expecting a Pull Request to the `main` branch, containing **all** fixes with completely working project.
 
-If you don't know how to contribute a PR, here's [my video with instructions](https://www.youtube.com/watch?v=vEcT6JIFji0).
-
 **Important**: I will NOT merge the Pull Request, only comment on it, whether it's correct or not.
 
 With my limited time, I will probably personally review first 10 Pull Requests, all the others will still get "karma points" by doing a good job to help the author.
